@@ -2,5 +2,5 @@
 
 Hey there,
 
-This repository contains scripts from the google IT automation capstone course,
+This repository contains scripts for the google IT automation capstone course,
 specifically the python scripts for the last week.
